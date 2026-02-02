@@ -1,0 +1,6 @@
+@APIContract_HostAddress = http://localhost:5015
+
+GET {{APIContract_HostAddress}}/swagger/
+Accept: application/json
+
+###
